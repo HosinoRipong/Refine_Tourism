@@ -1,0 +1,1917 @@
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared:                         nan
+Model:                                 OLS   Adj. R-squared:                    nan
+Method:                      Least Squares   F-statistic:                       nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                nan
+Time:                             15:27:04   Log-Likelihood:                    nan
+No. Observations:                   260575   AIC:                               nan
+Df Residuals:                       260574   BIC:                               nan
+Df Model:                                0                                         
+Covariance Type:                 nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const             nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:04   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+sex               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:04   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+age               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:04   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+education         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:04   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+satisfied         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+life_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+=============================================================================================
+                                coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+culture_leisure_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+is_prepared_old        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+class_consciousness        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+class_movement        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+count_domestic_day        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+count_international        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+with_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+income            nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+satisfy_income        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_consume        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+factor_job        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+stability_hire        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     count_domestic_lodgment   R-squared (uncentered):                     nan
+Model:                                 OLS   Adj. R-squared (uncentered):                nan
+Method:                      Least Squares   F-statistic:                                nan
+Date:                     Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                             15:27:05   Log-Likelihood:                             nan
+No. Observations:                   260575   AIC:                                        nan
+Df Residuals:                       260574   BIC:                                        nan
+Df Model:                                1                                                  
+Covariance Type:                 nonrobust                                                  
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+count_domestic_total        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     count_domestic_day   R-squared:                         nan
+Model:                            OLS   Adj. R-squared:                    nan
+Method:                 Least Squares   F-statistic:                       nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                nan
+Time:                        15:27:05   Log-Likelihood:                    nan
+No. Observations:              260575   AIC:                               nan
+Df Residuals:                  260574   BIC:                               nan
+Df Model:                           0                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const             nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+sex               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+age               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+education         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+satisfied         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+life_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+=============================================================================================
+                                coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+culture_leisure_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+is_prepared_old        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+class_consciousness        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+class_movement        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+count_domestic_lodgment        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+count_international        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+with_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+income            nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+satisfy_income        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_consume        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+factor_job        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+stability_hire        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     count_domestic_day   R-squared (uncentered):                     nan
+Model:                            OLS   Adj. R-squared (uncentered):                nan
+Method:                 Least Squares   F-statistic:                                nan
+Date:                Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                        15:27:06   Log-Likelihood:                             nan
+No. Observations:              260575   AIC:                                        nan
+Df Residuals:                  260574   BIC:                                        nan
+Df Model:                           1                                                  
+Covariance Type:            nonrobust                                                  
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+count_domestic_total        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                             OLS Regression Results                             
+================================================================================
+Dep. Variable:     count_domestic_total   R-squared:                      -0.000
+Model:                              OLS   Adj. R-squared:                 -0.000
+Method:                   Least Squares   F-statistic:                       nan
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                nan
+Time:                          15:27:07   Log-Likelihood:            -8.0229e+05
+No. Observations:                260575   AIC:                         1.605e+06
+Df Residuals:                    260574   BIC:                         1.605e+06
+Df Model:                             0                                         
+Covariance Type:              nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          3.0691      0.010    297.890      0.000       3.049       3.089
+==============================================================================
+Omnibus:                   258267.427   Durbin-Watson:                   1.359
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         22317089.480
+Skew:                           4.737   Prob(JB):                         0.00
+Kurtosis:                      47.337   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.228
+Model:                              OLS   Adj. R-squared (uncentered):              0.228
+Method:                   Least Squares   F-statistic:                          7.709e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:07   Log-Likelihood:                     -8.0671e+05
+No. Observations:                260575   AIC:                                  1.613e+06
+Df Residuals:                    260574   BIC:                                  1.613e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+sex            1.8168      0.007    277.659      0.000       1.804       1.830
+==============================================================================
+Omnibus:                   251526.414   Durbin-Watson:                   1.394
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         20110257.473
+Skew:                           4.554   Prob(JB):                         0.00
+Kurtosis:                      45.063   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.185
+Model:                              OLS   Adj. R-squared (uncentered):              0.185
+Method:                   Least Squares   F-statistic:                          5.899e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:07   Log-Likelihood:                     -8.1389e+05
+No. Observations:                260575   AIC:                                  1.628e+06
+Df Residuals:                    260574   BIC:                                  1.628e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+age            0.0509      0.000    242.875      0.000       0.050       0.051
+==============================================================================
+Omnibus:                   241427.885   Durbin-Watson:                   1.318
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         16949758.940
+Skew:                           4.295   Prob(JB):                         0.00
+Kurtosis:                      41.566   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.296
+Model:                              OLS   Adj. R-squared (uncentered):              0.296
+Method:                   Least Squares   F-statistic:                          1.096e+05
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:07   Log-Likelihood:                     -7.9474e+05
+No. Observations:                260575   AIC:                                  1.589e+06
+Df Residuals:                    260574   BIC:                                  1.589e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+education      0.9275      0.003    331.011      0.000       0.922       0.933
+==============================================================================
+Omnibus:                   260191.358   Durbin-Watson:                   1.410
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         24726578.142
+Skew:                           4.759   Prob(JB):                         0.00
+Kurtosis:                      49.763   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.045
+Model:                              OLS   Adj. R-squared (uncentered):              0.045
+Method:                   Least Squares   F-statistic:                          1.224e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:07   Log-Likelihood:                     -8.3449e+05
+No. Observations:                260575   AIC:                                  1.669e+06
+Df Residuals:                    260574   BIC:                                  1.669e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+satisfied      0.0064   5.79e-05    110.613      0.000       0.006       0.007
+==============================================================================
+Omnibus:                   246255.643   Durbin-Watson:                   1.062
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18769795.635
+Skew:                           4.409   Prob(JB):                         0.00
+Kurtosis:                      43.633   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.227
+Model:                              OLS   Adj. R-squared (uncentered):              0.227
+Method:                   Least Squares   F-statistic:                          7.632e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:07   Log-Likelihood:                     -8.0700e+05
+No. Observations:                260575   AIC:                                  1.614e+06
+Df Residuals:                    260574   BIC:                                  1.614e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+life_condition     0.9974      0.004    276.267      0.000       0.990       1.004
+==============================================================================
+Omnibus:                   250820.586   Durbin-Watson:                   1.351
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         19870444.486
+Skew:                           4.536   Prob(JB):                         0.00
+Kurtosis:                      44.807   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.215
+Model:                              OLS   Adj. R-squared (uncentered):              0.215
+Method:                   Least Squares   F-statistic:                          7.130e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.0896e+05
+No. Observations:                260575   AIC:                                  1.618e+06
+Df Residuals:                    260574   BIC:                                  1.618e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+=============================================================================================
+                                coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+culture_leisure_condition     0.9966      0.004    267.020      0.000       0.989       1.004
+==============================================================================
+Omnibus:                   248494.859   Durbin-Watson:                   1.344
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         19026759.052
+Skew:                           4.477   Prob(JB):                         0.00
+Kurtosis:                      43.893   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.187
+Model:                              OLS   Adj. R-squared (uncentered):              0.187
+Method:                   Least Squares   F-statistic:                          5.996e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.1349e+05
+No. Observations:                260575   AIC:                                  1.627e+06
+Df Residuals:                    260574   BIC:                                  1.627e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+is_prepared_old     1.8625      0.008    244.860      0.000       1.848       1.877
+==============================================================================
+Omnibus:                   243735.345   Durbin-Watson:                   1.337
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         17414645.153
+Skew:                           4.358   Prob(JB):                         0.00
+Kurtosis:                      42.089   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.208
+Model:                              OLS   Adj. R-squared (uncentered):              0.208
+Method:                   Least Squares   F-statistic:                          6.853e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.1005e+05
+No. Observations:                260575   AIC:                                  1.620e+06
+Df Residuals:                    260574   BIC:                                  1.620e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+class_consciousness     1.5728      0.006    261.778      0.000       1.561       1.585
+==============================================================================
+Omnibus:                   247102.000   Durbin-Watson:                   1.331
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18595136.362
+Skew:                           4.441   Prob(JB):                         0.00
+Kurtosis:                      43.420   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.200
+Model:                              OLS   Adj. R-squared (uncentered):              0.200
+Method:                   Least Squares   F-statistic:                          6.520e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.1138e+05
+No. Observations:                260575   AIC:                                  1.623e+06
+Df Residuals:                    260574   BIC:                                  1.623e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+class_movement     0.8173      0.003    255.342      0.000       0.811       0.824
+==============================================================================
+Omnibus:                   245525.584   Durbin-Watson:                   1.342
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18067107.246
+Skew:                           4.401   Prob(JB):                         0.00
+Kurtosis:                      42.832   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.456
+Model:                              OLS   Adj. R-squared (uncentered):              0.456
+Method:                   Least Squares   F-statistic:                          2.185e+05
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -7.6114e+05
+No. Observations:                260575   AIC:                                  1.522e+06
+Df Residuals:                    260574   BIC:                                  1.522e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+count_domestic_lodgment     1.3790      0.003    467.395      0.000       1.373       1.385
+==============================================================================
+Omnibus:                   237755.829   Durbin-Watson:                   1.381
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         16845860.659
+Skew:                           4.180   Prob(JB):                         0.00
+Kurtosis:                      41.493   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.692
+Model:                              OLS   Adj. R-squared (uncentered):              0.692
+Method:                   Least Squares   F-statistic:                          5.846e+05
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -6.8717e+05
+No. Observations:                260575   AIC:                                  1.374e+06
+Df Residuals:                    260574   BIC:                                  1.374e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+count_domestic_day     0.9569      0.001    764.580      0.000       0.954       0.959
+==============================================================================
+Omnibus:                   148743.545   Durbin-Watson:                   1.252
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          4784599.923
+Skew:                           2.188   Prob(JB):                         0.00
+Kurtosis:                      23.531   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.252
+Model:                              OLS   Adj. R-squared (uncentered):              0.252
+Method:                   Least Squares   F-statistic:                          8.794e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.0259e+05
+No. Observations:                260575   AIC:                                  1.605e+06
+Df Residuals:                    260574   BIC:                                  1.605e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+count_international     2.0426      0.007    296.546      0.000       2.029       2.056
+==============================================================================
+Omnibus:                   252386.810   Durbin-Watson:                   1.368
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         20714023.171
+Skew:                           4.571   Prob(JB):                         0.00
+Kurtosis:                      45.712   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.133
+Model:                              OLS   Adj. R-squared (uncentered):              0.133
+Method:                   Least Squares   F-statistic:                          4.002e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:08   Log-Likelihood:                     -8.2186e+05
+No. Observations:                260575   AIC:                                  1.644e+06
+Df Residuals:                    260574   BIC:                                  1.644e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+with_leisure     0.9858      0.005    200.044      0.000       0.976       0.995
+==============================================================================
+Omnibus:                   235495.545   Durbin-Watson:                   1.293
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         15247112.098
+Skew:                           4.149   Prob(JB):                         0.00
+Kurtosis:                      39.544   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.179
+Model:                              OLS   Adj. R-squared (uncentered):              0.179
+Method:                   Least Squares   F-statistic:                          5.679e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.1479e+05
+No. Observations:                260575   AIC:                                  1.630e+06
+Df Residuals:                    260574   BIC:                                  1.630e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_leisure     0.8210      0.003    238.296      0.000       0.814       0.828
+==============================================================================
+Omnibus:                   245350.276   Durbin-Watson:                   1.334
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         17695399.652
+Skew:                           4.404   Prob(JB):                         0.00
+Kurtosis:                      42.398   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.227
+Model:                              OLS   Adj. R-squared (uncentered):              0.227
+Method:                   Least Squares   F-statistic:                          7.672e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.0685e+05
+No. Observations:                260575   AIC:                                  1.614e+06
+Df Residuals:                    260574   BIC:                                  1.614e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+income         0.7842      0.003    276.977      0.000       0.779       0.790
+==============================================================================
+Omnibus:                   252452.115   Durbin-Watson:                   1.359
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         20137650.766
+Skew:                           4.585   Prob(JB):                         0.00
+Kurtosis:                      45.079   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.217
+Model:                              OLS   Adj. R-squared (uncentered):              0.217
+Method:                   Least Squares   F-statistic:                          7.221e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.0860e+05
+No. Observations:                260575   AIC:                                  1.617e+06
+Df Residuals:                    260574   BIC:                                  1.617e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+satisfy_income     0.8124      0.003    268.725      0.000       0.806       0.818
+==============================================================================
+Omnibus:                   249832.766   Durbin-Watson:                   1.353
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         19237218.540
+Skew:                           4.517   Prob(JB):                         0.00
+Kurtosis:                      44.112   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.202
+Model:                              OLS   Adj. R-squared (uncentered):              0.202
+Method:                   Least Squares   F-statistic:                          6.598e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.1107e+05
+No. Observations:                260575   AIC:                                  1.622e+06
+Df Residuals:                    260574   BIC:                                  1.622e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_consume     0.8115      0.003    256.858      0.000       0.805       0.818
+==============================================================================
+Omnibus:                   248131.334   Durbin-Watson:                   1.342
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18642849.689
+Skew:                           4.474   Prob(JB):                         0.00
+Kurtosis:                      43.460   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.206
+Model:                              OLS   Adj. R-squared (uncentered):              0.206
+Method:                   Least Squares   F-statistic:                          6.765e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.1040e+05
+No. Observations:                260575   AIC:                                  1.621e+06
+Df Residuals:                    260574   BIC:                                  1.621e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+factor_job     0.7455      0.003    260.098      0.000       0.740       0.751
+==============================================================================
+Omnibus:                   244457.933   Durbin-Watson:                   1.361
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         18233796.087
+Skew:                           4.363   Prob(JB):                         0.00
+Kurtosis:                      43.041   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     count_domestic_total   R-squared (uncentered):                   0.243
+Model:                              OLS   Adj. R-squared (uncentered):              0.243
+Method:                   Least Squares   F-statistic:                          8.360e+04
+Date:                  Sat, 13 Apr 2024   Prob (F-statistic):                        0.00
+Time:                          15:27:09   Log-Likelihood:                     -8.0422e+05
+No. Observations:                260575   AIC:                                  1.608e+06
+Df Residuals:                    260574   BIC:                                  1.608e+06
+Df Model:                             1                                                  
+Covariance Type:              nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+stability_hire     1.2090      0.004    289.140      0.000       1.201       1.217
+==============================================================================
+Omnibus:                   253736.721   Durbin-Watson:                   1.362
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):         20836198.842
+Skew:                           4.613   Prob(JB):                         0.00
+Kurtosis:                      45.825   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     count_international   R-squared:                         nan
+Model:                             OLS   Adj. R-squared:                    nan
+Method:                  Least Squares   F-statistic:                       nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                nan
+Time:                         15:27:10   Log-Likelihood:                    nan
+No. Observations:               260575   AIC:                               nan
+Df Residuals:                   260574   BIC:                               nan
+Df Model:                            0                                         
+Covariance Type:             nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const             nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+sex               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+age               nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+education         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+satisfied         nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+life_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+=============================================================================================
+                                coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+culture_leisure_condition        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+is_prepared_old        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+class_consciousness        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+class_movement        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+count_domestic_lodgment        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+count_domestic_day        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+with_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_leisure        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+income            nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+satisfy_income        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+satisfy_consume        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+factor_job        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:10   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+stability_hire        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     count_international   R-squared (uncentered):                     nan
+Model:                             OLS   Adj. R-squared (uncentered):                nan
+Method:                  Least Squares   F-statistic:                                nan
+Date:                 Sat, 13 Apr 2024   Prob (F-statistic):                         nan
+Time:                         15:27:11   Log-Likelihood:                             nan
+No. Observations:               260575   AIC:                                        nan
+Df Residuals:                   260574   BIC:                                        nan
+Df Model:                            1                                                  
+Covariance Type:             nonrobust                                                  
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+count_domestic_total        nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         1.00
+==============================================================================
+
+Notes:
+[1] R©÷ is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
