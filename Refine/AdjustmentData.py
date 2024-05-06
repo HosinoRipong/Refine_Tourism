@@ -61,19 +61,19 @@ data.loc[(data['austerity_consume_first'] != 6) &
 # 조정 15 : 나이대 설정
 def categorize_age(age):
     if age < 20:
-        return "10대"
+        return 1
     elif age < 30:
-        return "20대"
+        return 2
     elif age < 40:
-        return "30대"
+        return 3
     elif age < 50:
-        return "40대"
+        return 4
     elif age < 60:
-        return "50대"
+        return 5
     elif age < 70:
-        return "60대"
+        return 6
     else:
-        return "70대 이상"
+        return 7
 
 data['age_group'] = data['age'].apply(categorize_age)
 
