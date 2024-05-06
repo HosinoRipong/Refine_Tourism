@@ -1,14 +1,41 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
-data2011 = pd.read_csv('tour2011.csv', encoding='cp949')
-data2013 = pd.read_csv('tour2013.csv', encoding='cp949')
-data2015 = pd.read_csv('tour2015.csv', encoding='cp949')
-data2017 = pd.read_csv('tour2017.csv', encoding='cp949')
-data2019 = pd.read_csv('tour2019.csv', encoding='cp949')
-data2021 = pd.read_csv('tour2021.csv', encoding='cp949')
-data2023 = pd.read_csv('tour2023.csv', encoding='cp949')
+# 입력 및 출력 파일 경로 템플릿
+input_file_template = 'tour{}.csv'
+output_file_template = 'newtour{}.csv'
+
+# 작업할 연도 리스트
+years = [2011, 2013, 2015, 2017, 2019, 2021, 2023]
+
+# 주어진 연도들에 대해 반복
+for year in years:
+    input_file = input_file_template.format(year)
+    output_file = output_file_template.format(year)
+    
+    with open(input_file, 'r', newline='') as csvfile, open(output_file, 'w', newline='') as outfile:
+        reader = csv.reader(csvfile)
+        writer = csv.writer(outfile)
+        
+        # 헤더 행 처리
+        header = next(reader)
+        header.append('Year'.format(year))
+        writer.writerow(header)
+        
+        # 데이터 행 처리
+        for row in reader:
+            row.append(str(year))
+            writer.writerow(row)
+
+data2011 = pd.read_csv('newtour2011.csv', encoding='cp949')
+data2013 = pd.read_csv('newtour2013.csv', encoding='cp949')
+data2015 = pd.read_csv('newtour2015.csv', encoding='cp949')
+data2017 = pd.read_csv('newtour2017.csv', encoding='cp949')
+data2019 = pd.read_csv('newtour2019.csv', encoding='cp949')
+data2021 = pd.read_csv('newtour2021.csv', encoding='cp949')
+data2023 = pd.read_csv('newtour2023.csv', encoding='cp949')
 
 for old_column in data2011.columns:
     new_column = f"2011_{old_column}"  # 새로운 열 이름 생성
