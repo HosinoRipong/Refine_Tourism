@@ -74,7 +74,11 @@ def categorize_age(age):
         return 6
     else:
         return 7
-
+    
 data['age_group'] = data['age'].apply(categorize_age)
+ 
+# 조정 16 : 27. 혼인상태코드
+data.loc[(data['year'] == 2017) & (data['status_married'] == 3), 'status_married'] = 1
+data.loc[(data['year'] == 2017) & (data['status_married'] > 3), 'status_married'] -= 1
 
 data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장 
