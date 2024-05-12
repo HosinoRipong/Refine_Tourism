@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 data = pd.read_csv("RefinedData.csv", encoding='cp949')
 
@@ -81,4 +82,71 @@ data['age_group'] = data['age'].apply(categorize_age)
 data.loc[(data['year'] == 2017) & (data['status_married'] == 3), 'status_married'] = 1
 data.loc[(data['year'] == 2017) & (data['status_married'] > 3), 'status_married'] -= 1
 
-data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장 
+# 조정 17 : 48. 임금근로자
+data.loc[data['year'] == 2011, 'satisfy_wage_worker'] = np.nan
+
+# 조정 18 : 49. 산업코드
+data['worker_industry'] = data['worker_industry'].replace('A', 1)
+data['worker_industry'] = data['worker_industry'].replace('B', 2)
+data['worker_industry'] = data['worker_industry'].replace('C', 3)
+data['worker_industry'] = data['worker_industry'].replace('D', 4)
+data['worker_industry'] = data['worker_industry'].replace('E', 5)
+data['worker_industry'] = data['worker_industry'].replace('F', 6)
+data['worker_industry'] = data['worker_industry'].replace('G', 7)
+data['worker_industry'] = data['worker_industry'].replace('H', 8)
+data['worker_industry'] = data['worker_industry'].replace('I', 9)
+data['worker_industry'] = data['worker_industry'].replace('J', 10)
+data['worker_industry'] = data['worker_industry'].replace('K', 11)
+data['worker_industry'] = data['worker_industry'].replace('L', 12)
+data['worker_industry'] = data['worker_industry'].replace('M', 13)
+data['worker_industry'] = data['worker_industry'].replace('N', 14)
+data['worker_industry'] = data['worker_industry'].replace('O', 15)
+data['worker_industry'] = data['worker_industry'].replace('P', 16)
+data['worker_industry'] = data['worker_industry'].replace('Q', 17)
+data['worker_industry'] = data['worker_industry'].replace('R', 18)
+data['worker_industry'] = data['worker_industry'].replace('S', 19)
+data['worker_industry'] = data['worker_industry'].replace('T', 20)
+data['worker_industry'] = data['worker_industry'].replace('U', 21)
+
+data['worker_industry'] = data['worker_industry'].replace('a', 1)
+data['worker_industry'] = data['worker_industry'].replace('b', 2)
+data['worker_industry'] = data['worker_industry'].replace('c', 3)
+data['worker_industry'] = data['worker_industry'].replace('d', 4)
+data['worker_industry'] = data['worker_industry'].replace('e', 5)
+data['worker_industry'] = data['worker_industry'].replace('f', 6)
+data['worker_industry'] = data['worker_industry'].replace('g', 7)
+data['worker_industry'] = data['worker_industry'].replace('h', 8)
+data['worker_industry'] = data['worker_industry'].replace('i', 9)
+data['worker_industry'] = data['worker_industry'].replace('j', 10)
+data['worker_industry'] = data['worker_industry'].replace('k', 11)
+data['worker_industry'] = data['worker_industry'].replace('l', 12)
+data['worker_industry'] = data['worker_industry'].replace('m', 13)
+data['worker_industry'] = data['worker_industry'].replace('n', 14)
+data['worker_industry'] = data['worker_industry'].replace('o', 15)
+data['worker_industry'] = data['worker_industry'].replace('p', 16)
+data['worker_industry'] = data['worker_industry'].replace('q', 17)
+data['worker_industry'] = data['worker_industry'].replace('r', 18)
+data['worker_industry'] = data['worker_industry'].replace('s', 19)
+data['worker_industry'] = data['worker_industry'].replace('t', 20)
+data['worker_industry'] = data['worker_industry'].replace('u', 21)
+
+# 조정 19 : 50. 직업코드
+data['worker_job'] = data['worker_job'].replace('A', 10)
+
+# 조정 20 : 51. 국내숙박여행 유무
+data['is_domestic_lodgment'] = 0
+data.loc[(data['count_domestic_lodgment'] > 0 ), 'is_domestic_lodgment'] = 1
+data.loc[(data['count_domestic_lodgment'] == 0 ), 'is_domestic_lodgment'] = 2
+data.loc[(data['is_domestic_lodgment'] == 0 ), 'is_domestic_lodgment'] = np.nan
+
+# 조정 21 : 52. 국내당일치기여행 유무
+data['is_domestic_day'] = 0
+data.loc[(data['count_domestic_day'] > 0 ), 'is_domestic_day'] = 1
+data.loc[(data['count_domestic_day'] == 0 ), 'is_domestic_day'] = 2
+data.loc[(data['is_domestic_day'] == 0 ), 'is_domestic_day'] = np.nan
+
+# 조정 22 : 임금근로자만 따로 데이터프레임 생성
+data = data[data['status_job'] == 4]
+
+# data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장 
+data.to_csv('RefinedData_unpaid_family.csv', index=False, encoding='cp949') # 데이터 저장 

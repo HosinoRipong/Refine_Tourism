@@ -51,7 +51,7 @@ target_status_job = ['2011_70.종사상 지위', '2013_66.종사상지위', '201
 target_status_married = ['2011_7. 혼인상태', '2013_5.혼인상태', '2015_혼인상태코드', '2017_혼인상태코드', '2019_혼인상태코드', '2021_혼인상태코드', '2023_혼인상태코드'] # 27. 혼인상태
 # 28. 거처 종류 - 제거
 # 29. 점유 형태 - 제거
-# 30. 일과 가정생활의 우선도 - 제거
+target_priority_work_life = ['2011_66.일과 가정생활의 우선도', '2013_62.일과가정생활의우선', '2015_일가정생활우선도코드', '2017_일가정생활우선도코드', '2019_일가정생활우선도코드', '2021_일가정생활우선도코드', '2023_일가정생활우선도코드'] # 30. 일과 가정생활의 우선도
 
 ## 31. 긴축소비지출 1순위 ~ 35. 긴축소비지출 2순위
 target_austerity_consume_first = ['2011_58.긴축소비 지출항목_1순위', '2013_54.긴축소비지출항목1순위', '2015_긴축소비지출항목_1순위코드', '2017_긴축소비지출항목_1순위코드', '2019_긴축소비지출항목_1순위코드', '2021_긴축소비지출항목_1순위코드', '2023_긴축소비지출항목_1순위코드'] # 31. 긴축소비지출 1순위
@@ -60,9 +60,26 @@ target_is_international = ['2011_51.지난1년간 해외 경험여부', '2013_47
 # 34. 여행 횟수(합계) - 생략
 target_austerity_consume_second = ['2011_58.긴축소비 지출항목_2순위', '2013_54.긴축소비지출항목2순위', '2015_긴축소비지출항목_2순위코드', '2017_긴축소비지출항목_2순위코드', '2019_긴축소비지출항목_2순위코드', '2021_긴축소비지출항목_2순위코드', '2023_긴축소비지출항목_2순위코드'] # 35. 긴축소비지출 2순위
 
-## 36. 긴축소비지출 3순위 ~ 37. 장애인복지카드 소유여부
+## 36. 긴축소비지출 3순위 ~ 40. 연령 그룹
 target_austerity_consume_third = ['2011_58.긴축소비 지출항목_3순위', '2013_54.긴축소비지출항목3순위', '2015_긴축소비지출항목_3순위코드', '2017_긴축소비지출항목_3순위코드', '2019_긴축소비지출항목_3순위코드', '2021_긴축소비지출항목_3순위코드', '2023_긴축소비지출항목_3순위코드'] # 36. 긴축소비지출 3순위
 target_disabled_welfarecard = ['2011_14.장애인복지카드 소유여부', '2013_13.장애인복지카드소유', '2015_장애인복지카드_소유여부', '2017_장애인복지카드_소유여부', '2019_장애인복지카드_소유여부', '2021_분류코드_장애인복지카드_소유여부', '2023_장애인복지카드_소유여부'] # 37. 장애인복지카드 소유여부
+# 38. 나이 제곱 - 생략
+# 39. 여행 선호도 - 생략
+# 40. 연령 그룹 - 생략
+
+## 41. 근로여건만족도-근로시간 ~ 45. 근로여건만족도-인사관리
+target_satisfy_working_time= ['2011_72.근로시간', '2013_68.근로여건만족도(근로시간)', '2015_근로여건만족도_근로시간코드', '2017_근로여건만족도_근로시간코드', '2019_근로여건만족도_근로시간코드', '2021_근로여건만족도_근로시간코드', '2023_근로여건만족도_근로시간코드'] # 41. 근로여건만족도-근로시간
+target_satisfy_working_environment= ['2011_72.근무환경', '2013_68.근로여건만족도(근무환경)', '2015_근로여건만족도_근무환경코드', '2017_근로여건만족도_근무환경코드', '2019_근로여건만족도_근무환경코드', '2021_근로여건만족도_근무환경코드', '2023_근로여건만족도_근무환경코드'] # 42. 근로여건만족도-근무환경
+target_satisfy_people_relation= ['2011_72.인간관계', '2013_68.근로여건만족도(인간관계)', '2015_근로여건만족도_인간관계코드', '2017_근로여건만족도_인간관계코드', '2019_근로여건만족도_인간관계코드', '2021_근로여건만족도_인간관계코드', '2023_근로여건만족도_인간관계코드'] # 43. 근로여건만족도-인간관계
+target_satisfy_working_education= ['2011_72.직장내 교육훈련의 기회', '2013_68.근로여건만족도(교육훈련기회)', '2015_근로여건만족도_직장내교육훈련기회코드', '2017_근로여건만족도_직장내교육훈련기회코드', '2019_근로여건만족도_직장내교육훈련기회코드', '2021_근로여건만족도_직장내교육훈련기회코드', '2023_근로여건만족도_직장내교육훈련기회코드'] # 44. 근로여건만족도-직장내교육훈련
+target_satisfy_manage_human_resource= ['2011_72.인사관리', '2013_68.근로여건만족도(인사관리)', '2015_근로여건만족도_인사관리코드', '2017_근로여건만족도_인사관리코드', '2019_근로여건만족도_인사관리코드', '2021_근로여건만족도_인사관리코드', '2023_근로여건만족도_인사관리코드'] # 45. 근로여건만족도-인사관리
+
+## 46. 근로여건만족도-업무 ~ 50. 직업코드
+target_satisfy_working= ['2011_72.하는 일', '2013_68.근로여건만족도(하는일)', '2015_근로여건만족도_업무코드', '2017_근로여건만족도_업무코드', '2019_근로여건만족도_업무코드', '2021_근로여건만족도_업무코드', '2023_근로여건만족도_업무코드'] # 46. 근로여건만족도-업무
+target_satisfy_working_welfare= ['2011_72.복리후생', '2013_68.근로여건만족도(복리후생)', '2015_근로여건만족도_복리후생코드', '2017_근로여건만족도_복리후생코드', '2019_근로여건만족도_복리후생코드', '2021_근로여건만족도_복리후생코드', '2023_근로여건만족도_복리후생코드'] # 47. 근로여건만족도-복리후생
+target_satisfy_wage_worker= ['2011_72.근로시간', '2013_66.임금근로자분류(상용,임시.일용)', '2015_임금근로자구분코드', '2017_임금근로자구분코드', '2019_임금근로자구분코드', '2021_임금근로자구분코드', '2023_임금근로자구분코드'] # 48. 임금근로자
+target_worker_industry= ['2011_68.산업코드', '2013_64.산업코드', '2015_직장산업대분류코드', '2017_직장산업대분류코드', '2019_직장산업대분류코드', '2021_직장산업대분류코드', '2023_직장산업대분류코드'] # 49. 산업코드
+target_worker_job= ['2011_69.직업코드', '2013_65.직업코드', '2015_직업대분류코드', '2017_직업대분류코드', '2019_직업대분류코드', '2021_직업대분류코드', '2023_직업대분류코드'] # 50. 직업코드
 
 # 새로운 데이터프레임 생성
 refined_data = pd.DataFrame({})
@@ -112,7 +129,7 @@ refined_data['status_job'] = data[target_status_job].apply(lambda x: ','.join(x.
 refined_data['status_married'] = data[target_status_married].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
 # 28
 # 29
-# 30
+refined_data['priority_work_life'] = data[target_priority_work_life].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
 
 ## 31. 긴축소비지출 1순위 ~ 34. 여행 횟수(합계)
 refined_data['austerity_consume_first'] = data[target_austerity_consume_first].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
@@ -124,6 +141,23 @@ refined_data['austerity_consume_second'] = data[target_austerity_consume_second]
 ## 36. 긴축소비지출 3순위 ~ 37. 장애인복지카드 소유여부
 refined_data['austerity_consume_third'] = data[target_austerity_consume_third].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
 refined_data['disabled_welfarecard'] = data[target_disabled_welfarecard].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+# 38
+# 39
+# 40
+
+## 41. 근로여건만족도-근로시간 ~ 45. 근로여건만족도-인사관리
+refined_data['satisfy_working_time'] = data[target_satisfy_working_time].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_working_environment'] = data[target_satisfy_working_environment].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_people_relation'] = data[target_satisfy_people_relation].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_working_education'] = data[target_satisfy_working_education].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_manage_human_resource'] = data[target_satisfy_manage_human_resource].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+
+## 46. 근로여건만족도-업무 ~ 50. 직업코드
+refined_data['satisfy_working'] = data[target_satisfy_working].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_working_welfare'] = data[target_satisfy_working_welfare].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['satisfy_wage_worker'] = data[target_satisfy_wage_worker].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['worker_industry'] = data[target_worker_industry].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
+refined_data['worker_job'] = data[target_worker_job].apply(lambda x: ','.join(x.dropna().astype(str)), axis=1)
 
 print(refined_data)
 refined_data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장 
