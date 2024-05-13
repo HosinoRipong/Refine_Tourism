@@ -3,6 +3,12 @@ import numpy as np
 
 data = pd.read_csv("RefinedData.csv", encoding='cp949')
 
+# 조정 0 : 10. 국내 관광여행 횟수(숙박여행), 11. 국내 관광여행 횟수(당일여행), 13. 해외여행 경험 횟수(관광)
+data['count_domestic_lodgment'] = data['count_domestic_lodgment'].fillna(0)
+data['count_domestic_day'] = data['count_domestic_day'].fillna(0)
+data['count_international'] = data['count_international'].fillna(0)
+
+
 # 조정 1 : 8. 계층 의식 - 제거
 
 # 조정 2 : 14. 여가활용동반자 - 제거
@@ -145,8 +151,9 @@ data.loc[(data['count_domestic_day'] > 0 ), 'is_domestic_day'] = 1
 data.loc[(data['count_domestic_day'] == 0 ), 'is_domestic_day'] = 2
 data.loc[(data['is_domestic_day'] == 0 ), 'is_domestic_day'] = np.nan
 
-# 조정 22 : 임금근로자만 따로 데이터프레임 생성
+
+# 조정 : 임금근로자만 따로 데이터프레임 생성
 data = data[data['status_job'] == 4]
 
-# data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장 
-data.to_csv('RefinedData_unpaid_family.csv', index=False, encoding='cp949') # 데이터 저장 
+# data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장
+data.to_csv('RefinedData_unpaid_family.csv', index=False, encoding='cp949') # 데이터 저장
