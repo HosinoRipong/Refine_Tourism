@@ -21,5 +21,5 @@ print("기술통계량:")
 print(statistics)
 
 # CSV 파일로 저장
-statistics.to_csv('statistics.csv')
+statistics.to_csv('statistics2.csv')
 print("기술통계량이 statistics.csv 파일로 저장되었습니다.")

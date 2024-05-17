@@ -27,6 +27,7 @@ data['income_household'] = data['income_household'].replace(7.8, 7)
 
 # 조정 6 : 22. 가구원수
 data['number_household'] = data['number_household'] % 10
+data.loc[(data['number_household'] > 4 ), 'number_household'] = 4
 
 # 조정 7 : 24. 동읍면부
 data['city_detail'] = data['city_detail'].replace('00A', 1)
@@ -48,8 +49,7 @@ data.loc[((data['year'] == 2021) | (data['year'] == 2023)) & (data['austerity_co
 # 조정 10 : 34. 여행 횟수(합계)
 data['count_total'] = data['count_domestic_total'].fillna(0) + data['count_international'].fillna(0)
 
-# 조정 11 : 3. 교육정도
-data.loc[data['education'] >= 6, 'education'] = 6
+# 조정 11 : 3. 교육정도 - 조정 제거
 
 # 조정 12 : 나이 제곱
 data['age_square'] = data['age'] ** 2
@@ -85,8 +85,7 @@ def categorize_age(age):
 data['age_group'] = data['age'].apply(categorize_age)
  
 # 조정 16 : 27. 혼인상태코드
-data.loc[(data['year'] == 2017) & (data['status_married'] == 3), 'status_married'] = 1
-data.loc[(data['year'] == 2017) & (data['status_married'] > 3), 'status_married'] -= 1
+data['status_married'] = data['status_married'].apply(lambda x: (x // 10) % 10 if x > 10 else x)
 
 # 조정 17 : 48. 임금근로자
 data.loc[data['year'] == 2011, 'satisfy_wage_worker'] = np.nan
@@ -151,9 +150,4 @@ data.loc[(data['count_domestic_day'] > 0 ), 'is_domestic_day'] = 1
 data.loc[(data['count_domestic_day'] == 0 ), 'is_domestic_day'] = 2
 data.loc[(data['is_domestic_day'] == 0 ), 'is_domestic_day'] = np.nan
 
-
-# 조정 : 임금근로자만 따로 데이터프레임 생성
-data = data[data['status_job'] == 4]
-
-# data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장
-data.to_csv('RefinedData_unpaid_family.csv', index=False, encoding='cp949') # 데이터 저장
+data.to_csv('RefinedData.csv', index=False, encoding='cp949') # 데이터 저장
